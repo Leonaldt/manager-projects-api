@@ -11,8 +11,9 @@ npm install
 ## :computer: Preconfigs
 > - Create a folder called config in root folder project
 > - Create a file called dev.env inside folder config
+> - And finaly create a variable called MONGODB_URL with an URL from connection your database
 
-## :rocket: How to run
+## :rocket: How to run 
 
 ```bash
 npm run dev
