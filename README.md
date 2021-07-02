@@ -9,8 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 npm install
 ```
 ## :computer: Preconfigs
-> Create a folder called config
-> Create a file called dev.env
+- > Create a folder called config
+- > Create a file called dev.env
 
 ## :rocket: How to run
 
