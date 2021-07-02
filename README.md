@@ -32,5 +32,5 @@ This project was developed with the following technologies:
 -  [Mongoose](https://mongoosejs.com/docs/)
 -  [MongoDB](https://docs.mongodb.com/)
 
-## [Demo link API - Manager Projects](https://manager-projects-api.herokuapp.com)
+## [Demo link API](https://manager-projects-api.herokuapp.com)
 > This project has been hospeded in the Heroku that is a cloud platform as a service
