@@ -9,8 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 npm install
 ```
 ## :computer: Preconfigs
-- > Create a folder called config in root folder project
-- > Create a file called dev.env inside folder config
+> Create a folder called config in root folder project
+> Create a file called dev.env inside folder config
 
 ## :rocket: How to run
 
@@ -31,3 +31,6 @@ This project was developed with the following technologies:
 -  [Nodemon](https://www.npmjs.com/package/nodemon)
 -  [Mongoose](https://mongoosejs.com/docs/)
 -  [MongoDB](https://docs.mongodb.com/)
+
+## Demo link API [Manager Projects](https://manager-projects-api.herokuapp.com)
+> This project has been hospeded in the Heroku that is a cloud platform as a service
