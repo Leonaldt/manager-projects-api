@@ -7,7 +7,7 @@ const projectsRouter = require('./routers/project')
 const app = express()
 const port = process.env.PORT || 3000
 
-var whitelist = ['http://localhost:4200']
+var whitelist = ['http://localhost:4200', 'https://manager-projects-front.herokuapp.com']
 var corsOptions = {
     origin: function (origin, callback) {
         console.log('origin: ', origin)
